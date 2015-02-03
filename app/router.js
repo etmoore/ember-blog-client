@@ -12,7 +12,6 @@ Router.map(function() {
       this.route('edit');
     });
   });
-  this.route("post");
 });
 
 export default Router;
